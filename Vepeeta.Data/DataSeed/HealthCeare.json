@@ -1,0 +1,79 @@
+[
+  {
+    "NameAr": "فحص شامل",
+    "NameEn": "General examination",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "إعادة الفحص",
+    "NameEn": "Follow-up check-up"
+  },
+  {
+    "NameAr": "خدمة طوارئ بعد منتصف الليل",
+    "NameEn": "Emergency service after midnight"
+  },
+  {
+    "NameAr": "باسبور",
+    "NameEn": "passport"
+  },
+  {
+    "NameAr": "تفريغ الغدد الشرجية",
+    "NameEn": "Expression of anal glands for dog"
+  },
+  {
+    "NameAr": "قسطرة بولية",
+    "NameEn": "Urinary catheterization"
+  },
+  {
+    "NameAr": "تنظيف خراج",
+    "NameEn": "Abscess cleaning"
+  },
+  {
+    "NameAr": "تنظيف طبي للأذن",
+    "NameEn": "Medical ear cleaning"
+  },
+  {
+    "NameAr": "استئصال العين",
+    "NameEn": "Eye removal"
+  },
+  {
+    "NameAr": "ضمادة الجرح",
+    "NameEn": "Wound dressing"
+  },
+  {
+    "NameAr": "فحص الأشعة السينية",
+    "NameEn": "X-rays Imaging"
+  },
+  {
+    "NameAr": "الأشعة المقطعية والرنين المغناطيسي",
+    "NameEn": "CT Scans and MRIs"
+  },
+  {
+    "NameAr": "فحص بالسونار (الأمواج فوق الصوتية)",
+    "NameEn": "Ultrasound Examination"
+  },
+  {
+    "NameAr": "حقنة شرجية",
+    "NameEn": "Enema"
+  },
+  {
+    "NameAr": "تركيب شريحة إلكترونية",
+    "NameEn": "Micro Chip insertion"
+  },
+  {
+    "NameAr": "تنظيف الأسنان للقطط",
+    "NameEn": "Dental cleaning for cats"
+  },
+  {
+    "NameAr": "خلع سن أو ضرس",
+    "NameEn": "Tooth extraction"
+  },
+  {
+    "NameAr": "إعطاء محلول وريدي",
+    "NameEn": "Administering intravenous fluids"
+  },
+  {
+    "NameAr": "تركيب كانيولا مع المحلول",
+    "NameEn": "Inserting a cannula with the solution"
+  }
+]

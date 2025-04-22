@@ -1,0 +1,377 @@
+[
+  {
+    "NameAr": "إيواء طبي للقطط",
+    "NameEn": "Medical boarding for cat",
+    "Type": "Boarding"
+  },
+  {
+    "NameAr": "إيواء طبي للكلاب الصغيرة",
+    "NameEn": "Medical boarding for small dog",
+    "Type": "Boarding"
+  },
+  {
+    "NameAr": "إيواء عادي للقطط",
+    "NameEn": "Standard boarding for cat",
+    "Type": "Boarding"
+  },
+  {
+    "NameAr": "إيواء عادي للكلاب الصغيرة",
+    "NameEn": "Standard boarding for small dog",
+    "Type": "Boarding"
+  },
+  {
+    "NameAr": "إيواء طبي للكلاب متوسطة الحجم",
+    "NameEn": "Medical boarding for medium-sized dog",
+    "Type": "Boarding"
+  },
+  {
+    "NameAr": "إيواء طبي للكلاب الكبيرة",
+    "NameEn": "Medical boarding for large dog",
+    "Type": "Boarding"
+  },
+  {
+    "NameAr": "علاج البراغيث والقراد للطيور",
+    "NameEn": "Flea & Tick Treatments for bird",
+    "Type": "GroomingBird"
+  },
+  {
+    "NameAr": "تقليم الأظافر والأجنحة والمنقار للطائر",
+    "NameEn": "Nail, wing, and beak trimming for bird",
+    "Type": "GroomingBird"
+  },
+  {
+    "NameAr": "باقة التطعيم مع تقليم الأظافر والأجنحة والمنقار للطائر",
+    "NameEn": "Vaccination package with nail, wing, and beak trimming for bird",
+    "Type": "GroomingBird"
+  },
+  {
+    "NameAr": "حلاقة فقط مع تقليم الأظافر وتنظيف الأذن والعين للقط",
+    "NameEn": "Shaving only for a cat with nail trimming, ear, and eye cleaning",
+    "Type": "GroomingCat"
+  },
+  {
+    "NameAr": "استحمام طبي للقط مع تقليم الأظافر وتنظيف الأذن والعين",
+    "NameEn": "Medical shower for a cat with nail trimming, ear, and eye cleaning",
+    "Type": "GroomingCat"
+  },
+  {
+    "NameAr": "استحمام طبي للقط مع تقليم الأظافر وتنظيف الأذن والعين وحلاقة المناطق الحساسة وإزالة تشابك الشعر",
+    "NameEn": "Medical shower for a cat with nail trimming, ear and eye cleaning, shaving private areas, and removing hair mats",
+    "Type": "GroomingCat"
+  },
+  {
+    "NameAr": "باقة شاملة تشمل الحلاقة والاستحمام للقط",
+    "NameEn": "Comprehensive package including shaving and showering a cat",
+    "Type": "GroomingCat"
+  },
+  {
+    "NameAr": "حلاقة فقط مع تقليم الأظافر وتنظيف الأذن والعين للكلب",
+    "NameEn": "Shaving only for a dog with nail trimming, ear, and eye cleaning",
+    "Type": "GroomingDog"
+  },
+  {
+    "NameAr": "استحمام طبي للكلب مع تقليم الأظافر وتنظيف الأذن والعين",
+    "NameEn": "Medical shower for a dog with nail trimming, ear, and eye cleaning",
+    "Type": "GroomingDog"
+  },
+  {
+    "NameAr": "استحمام طبي للكلب مع تقليم الأظافر وتنظيف الأذن والعين وحلاقة المناطق الحساسة وإزالة تشابك الشعر",
+    "NameEn": "Medical shower for a dog with nail trimming, ear and eye cleaning, shaving private areas, and removing hair mats",
+    "Type": "GroomingDog"
+  },
+  {
+    "NameAr": "باقة شاملة تشمل الحلاقة والاستحمام للكلب الصغير",
+    "NameEn": "Comprehensive package including shaving and showering a small dog",
+    "Type": "GroomingDog"
+  },
+  {
+    "NameAr": "باقة شاملة تشمل الحلاقة والاستحمام للكلب الكبير",
+    "NameEn": "Comprehensive package including shaving and showering a large dog",
+    "Type": "GroomingDog"
+  },
+  {
+    "NameAr": "فحص شامل",
+    "NameEn": "General examination",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "إعادة الفحص",
+    "NameEn": "Follow-up check-up",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "خدمة طوارئ بعد منتصف الليل",
+    "NameEn": "Emergency service after midnight",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "باسبور",
+    "NameEn": "passport",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "تفريغ الغدد الشرجية",
+    "NameEn": "Expression of anal glands for dog",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "قسطرة بولية",
+    "NameEn": "Urinary catheterization",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "تنظيف خراج",
+    "NameEn": "Abscess cleaning",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "تنظيف طبي للأذن",
+    "NameEn": "Medical ear cleaning",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "استئصال العين",
+    "NameEn": "Eye removal",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "ضمادة الجرح",
+    "NameEn": "Wound dressing",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "فحص الأشعة السينية",
+    "NameEn": "X-rays Imaging",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "الأشعة المقطعية والرنين المغناطيسي",
+    "NameEn": "CT Scans and MRIs",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "فحص بالسونار (الأمواج فوق الصوتية)",
+    "NameEn": "Ultrasound Examination",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "حقنة شرجية",
+    "NameEn": "Enema",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "تركيب شريحة إلكترونية",
+    "NameEn": "Micro Chip insertion",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "تنظيف الأسنان للقطط",
+    "NameEn": "Dental cleaning for cats",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "خلع سن أو ضرس",
+    "NameEn": "Tooth extraction",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "إعطاء محلول وريدي",
+    "NameEn": "Administering intravenous fluids",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "تركيب كانيولا مع المحلول",
+    "NameEn": "Inserting a cannula with the solution",
+    "Type": "HealthCeare"
+  },
+  {
+    "NameAr": "تحليل الدم الكامل",
+    "NameEn": "Complete Blood Count (CBC)",
+    "Type": "LaboratoryTests"
+  },
+  {
+    "NameAr": "تحليل كيمياء الدم",
+    "NameEn": "Blood Chemistry Analysis",
+    "Type": "LaboratoryTests"
+  },
+  {
+    "NameAr": "تحليل البول والبراز",
+    "NameEn": "Urine & Feces Analysis",
+    "Type": "LaboratoryTests"
+  },
+  {
+    "NameAr": "اختبار الحساسية",
+    "NameEn": "Allergy Test",
+    "Type": "LaboratoryTests"
+  },
+  {
+    "NameAr": "اختبارات وظائف الكبد والكلى",
+    "NameEn": "Liver & Kidney Function Tests",
+    "Type": "LaboratoryTests"
+  },
+  {
+    "NameAr": "اختبارات الحمل",
+    "NameEn": "Pregnancy Tests",
+    "Type": "LaboratoryTests"
+  },
+  {
+    "NameAr": "طب الأمراض الجلدية",
+    "NameEn": "Dermatology",
+    "Type": "SpecialtyServices"
+  },
+  {
+    "NameAr": "طب القلب",
+    "NameEn": "Cardiology",
+    "Type": "SpecialtyServices"
+  },
+  {
+    "NameAr": "جراحة العظام والتأهيل",
+    "NameEn": "Orthopedic Surgery & Rehabilitation",
+    "Type": "SpecialtyServices"
+  },
+  {
+    "NameAr": "طب الأورام",
+    "NameEn": "Oncology",
+    "Type": "SpecialtyServices"
+  },
+  {
+    "NameAr": "طب العيون",
+    "NameEn": "Ophthalmology",
+    "Type": "SpecialtyServices"
+  },
+  {
+    "NameAr": "طب الأعصاب",
+    "NameEn": "Neurology",
+    "Type": "SpecialtyServices"
+  },
+  {
+    "NameAr": "الطب الباطني",
+    "NameEn": "Internal Medicine",
+    "Type": "SpecialtyServices"
+  },
+  {
+    "NameAr": "خدمات سفر الحيوانات الأليفة",
+    "NameEn": "Pet Travel Services",
+    "Type": "SpecialtyServices"
+  },
+  {
+    "NameAr": "التحكم في التسمم والعلاج",
+    "NameEn": "Poison Control & Treatment",
+    "Type": "SpecialtyServices"
+  },
+  {
+    "NameAr": "وحدات الرعاية الحرجة",
+    "NameEn": "Critical Care Units",
+    "Type": "SpecialtyServices"
+  },
+  {
+    "NameAr": "القتل الرحيم ورعاية نهاية الحياة",
+    "NameEn": "Euthanasia & End-of-life Care",
+    "Type": "SpecialtyServices"
+  },
+  {
+    "NameAr": "تعقيم أنثى الكلب الصغيرة",
+    "NameEn": "Spaying of a female small dog",
+    "Type": "Surgery"
+  },
+  {
+    "NameAr": "تعقيم أنثى الكلب الكبيرة",
+    "NameEn": "Spaying of a female large dog",
+    "Type": "Surgery"
+  },
+  {
+    "NameAr": "عملية قيصرية لأنثى الكلب الصغيرة",
+    "NameEn": "C-section for a small female dog",
+    "Type": "Surgery"
+  },
+  {
+    "NameAr": "عملية قيصرية لأنثى الكلب الكبيرة",
+    "NameEn": "C-section for a large female dog",
+    "Type": "Surgery"
+  },
+  {
+    "NameAr": "إخصاء القط الذكر",
+    "NameEn": "Castration of a male cat",
+    "Type": "Surgery"
+  },
+  {
+    "NameAr": "تعقيم أنثى القط",
+    "NameEn": "Spaying of a female cat",
+    "Type": "Surgery"
+  },
+  {
+    "NameAr": "عملية قيصرية للقطة",
+    "NameEn": "C-section for a cat",
+    "Type": "Surgery"
+  },
+  {
+    "NameAr": "إزالة مخالب القطط",
+    "NameEn": "Declawing for cats",
+    "Type": "Surgery"
+  },
+  {
+    "NameAr": "تحويلة مجرى البول",
+    "NameEn": "Urethrostomy",
+    "Type": "Surgery"
+  },
+  {
+    "NameAr": "رعاية ما بعد الجراحة",
+    "NameEn": "Post-Surgical Care",
+    "Type": "Surgery"
+  },
+  {
+    "NameAr": "خياطة الجرح",
+    "NameEn": "Suture of a wound",
+    "Type": "Surgery"
+  },
+  {
+    "NameAr": "تطعيم السعار للكلاب",
+    "NameEن": "Rabies vaccination for Dog",
+    "Type": "Vaccinations"
+  },
+  {
+    "NameAr": "تطعيم السعار للقطط",
+    "NameEn": "Rabies vaccination for cat",
+    "Type": "Vaccinations"
+  },
+  {
+    "NameAr": "تطعيم فطري للقطط",
+    "NameEn": "Fungal vaccination for cat",
+    "Type": "Vaccinations"
+  },
+  {
+    "NameAr": "تطعيم تعزيز المناعة",
+    "NameEn": "Immune-boosting vaccination",
+    "Type": "Vaccinations"
+  },
+  {
+    "NameAr": "تطعيم البراغيث والقراد للقطط",
+    "NameEn": "Flea & Tick vaccination for cats",
+    "Type": "Vaccinations"
+  },
+  {
+    "NameAr": "تطعيم البراغيث والقراد للكلاب الصغيرة",
+    "NameEn": "Flea & Tick vaccination for small breed Dog",
+    "Type": "Vaccinations"
+  },
+  {
+    "NameAr": "تطعيم البراغيث والقراد للكلاب متوسطة الحجم",
+    "NameEn": "Flea & Tick vaccination for medium breed Dog",
+    "Type": "Vaccinations"
+  },
+  {
+    "NameAr": "تطعيم البراغيث والقراد للكلاب الكبيرة",
+    "NameEn": "Flea & Tick vaccination for large breed Dog",
+    "Type": "Vaccinations"
+  },
+  {
+    "NameAr": "التخلص من الديدان للكلاب",
+    "NameEn": "Deworming for Dog",
+    "Type": "Vaccinations"
+  },
+  {
+    "NameAr": "التخلص من الديدان للقطط",
+    "NameEn": "Deworming for cat",
+    "Type": "Vaccinations"
+  }
+]

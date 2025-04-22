@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Features\AppUser\Quers\Valdeations\**" />
+    <EmbeddedResource Remove="Features\AppUser\Quers\Valdeations\**" />
+    <None Remove="Features\AppUser\Quers\Valdeations\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\Clinics\Commands\Validators\" />
+    <Folder Include="Features\Clinics\Queries\Validators\" />
+    <Folder Include="Features\Doctors\Commands\Results\" />
+    <Folder Include="Features\Doctors\Queries\Validators\" />
+    <Folder Include="Features\Rates\Commands\Validation\" />
+    <Folder Include="Features\Rates\Commands\Results\" />
+    <Folder Include="Features\Rates\Queries\Validation\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.11.0" />
+    <PackageReference Include="MediatR" Version="12.4.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.3.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.36" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.36" />
+    <PackageReference Include="Microsoft.Extensions.Localization.Abstractions" Version="6.0.36" />
+    <PackageReference Include="SpecFlow" Version="3.9.74" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Vepeeta.Data\Vepeeta.Data.csproj" />
+    <ProjectReference Include="..\Vepeeta.Service\Vepeeta.Service.csproj" />
+  </ItemGroup>
+
+</Project>
